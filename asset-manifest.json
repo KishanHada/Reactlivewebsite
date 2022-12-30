@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Reactlivewebsite/static/css/main.ee2f614d.css",
+    "main.js": "/Reactlivewebsite/static/js/main.8cee26b1.js",
+    "static/js/787.ec704a7a.chunk.js": "/Reactlivewebsite/static/js/787.ec704a7a.chunk.js",
+    "static/media/softwere.jpg": "/Reactlivewebsite/static/media/softwere.63f3dda3eab35f8fcd02.jpg",
+    "static/media/hacking.jpg": "/Reactlivewebsite/static/media/hacking.659a0dacf49a93fdbfcb.jpg",
+    "static/media/app.jpg": "/Reactlivewebsite/static/media/app.676fc12a9422de4946de.jpg",
+    "static/media/web.jpg": "/Reactlivewebsite/static/media/web.8090e61ca2fa6309bd5a.jpg",
+    "static/media/android.jpg": "/Reactlivewebsite/static/media/android.68b06bbccee14083c589.jpg",
+    "static/media/digital.jpg": "/Reactlivewebsite/static/media/digital.a9e2ebbba3de82097032.jpg",
+    "static/media/about.jpg": "/Reactlivewebsite/static/media/about.109c930b05592f631aa9.jpg",
+    "static/media/home.jpg": "/Reactlivewebsite/static/media/home.c2700092766b826665c7.jpg",
+    "index.html": "/Reactlivewebsite/index.html",
+    "main.ee2f614d.css.map": "/Reactlivewebsite/static/css/main.ee2f614d.css.map",
+    "main.8cee26b1.js.map": "/Reactlivewebsite/static/js/main.8cee26b1.js.map",
+    "787.ec704a7a.chunk.js.map": "/Reactlivewebsite/static/js/787.ec704a7a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ee2f614d.css",
+    "static/js/main.8cee26b1.js"
+  ]
+}
